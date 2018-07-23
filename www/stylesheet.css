@@ -1,0 +1,78 @@
+body{
+    background-color: #fffdf9;
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: Ailerons;
+    src: url("Ailerons-Typeface.otf");
+}
+.time-hours{
+    position: absolute;
+    font-size: 1300%;
+    top: 3%;
+    left: 30%;
+}
+.time-ampm{
+    position: absolute;
+    font-size: 200%;
+    top: 12.5%;
+    left: 63%;
+}
+.time-minutes{
+    position: absolute;
+    font-size: 600%;
+    top: 9%;
+    left: 52%;
+}
+.time-day{
+    text-align: center;
+    position: absolute;
+    font-size: 400%;
+    top: 17%;
+    width: 100%;
+}
+.settings{
+    position: absolute;
+    top: 1%;
+    right: 2%;
+}
+.wifi{
+    position: absolute;
+    top: 1%;
+    left:2%;
+}
+.phone{
+    position: absolute;
+    font-size: 400%;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+.contacts{
+    position: absolute;
+    font-size: 400%;
+    width: 100%;
+    text-align: center;
+    top: 40%;
+}
+.sms{
+    position: absolute;
+    font-size: 400%;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+}
+.camera{
+    position: absolute;
+    font-size: 400%;
+    width: 100%;
+    text-align: center;
+    top: 60%;
+}
+.maps{
+    position: absolute;
+    font-size: 400%;
+    width: 100%;
+    text-align: center;
+    top: 70%;
+}
